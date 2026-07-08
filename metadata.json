@@ -1,0 +1,6 @@
+{
+  "name": "Stage Set",
+  "description": "Um assistente de palco para músicos, focado em roteiros de arranjo e partituras funcionais compasso a compasso.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
